@@ -1,0 +1,14 @@
+{
+    "title": "Country data",
+    "site-name": "Covid 19 Statistics",
+    "email": "Email",
+    "password": "Password",
+    "sign-in": "Sign In",
+    "welcome": "Welcome, {name}",
+    "search": "Search",
+    "logout": "Logout",
+    "country": "Country",
+    "deaths": "Deaths",
+    "confirmed": "Confirmed",
+    "recovered": "Recovered"
+}
